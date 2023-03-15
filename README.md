@@ -54,4 +54,13 @@ For better understanding prefer Notebook.I used pyspark in code ,in some system 
 #Bitcoin VS Ethereum market open price
 ![image](https://user-images.githubusercontent.com/71961635/225414723-bb1256a1-8eeb-47be-aab5-a350653a329b.png)
 
+# CREATING AN AWS LAMDA FUNCTION & WRITE DOWN PYTHON CODE TO LOAD DATA IN S3
+![image](https://user-images.githubusercontent.com/71961635/225418739-8f2f4743-5623-43fe-8ce9-3e9486371dee.png)
+![image](https://user-images.githubusercontent.com/71961635/225418808-9ca30003-66a3-413d-91f7-275e753b4bb6.png)
+#CONFIGURE LAMBDA  FUCTION SETTINGS AND 
+![image](https://user-images.githubusercontent.com/71961635/225419792-997f730c-92b4-4001-9d2c-ffc92e4fb9a1.png)
+
+#CREATE A S3 BUCKET AND LOAD DATA INTO S3
+![image](https://user-images.githubusercontent.com/71961635/225419253-38de7339-1db6-45b2-977d-4c1dc029cc3d.png)
+
 
