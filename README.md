@@ -1,1 +1,57 @@
 # Data_Engineer_crypto_Assignment
+
+#Code has two version   --i)   Notebook II)   modular(oops) way .
+
+
+For better understanding prefer Notebook.I used pyspark in code ,in some system pyspark.session can throw java.gateway error. For that reason you can execute ipython notebook in google colab.
+
+*Dataframe look like
+
+![image](https://user-images.githubusercontent.com/71961635/225378918-8826b13b-ac55-42f7-85df-4ef87d9d73ac.png)
+
+
+## only bitcoin
+![image](https://user-images.githubusercontent.com/71961635/225386734-8a57eafb-1b7f-4998-9aba-274d4251cebe.png)
+
+## only etherium
+![image](https://user-images.githubusercontent.com/71961635/225386997-c62da3b7-85ec-4448-a20b-7f8c4610a645.png)
+
+## TOP 5 CRYPTO 
+![image](https://user-images.githubusercontent.com/71961635/225389208-b52089a1-e951-4bef-b29b-570d80db7ca0.png)
+
+![image](https://user-images.githubusercontent.com/71961635/225389592-451b2122-6209-4538-819b-2cfd8248f218.png)
+
+![image](https://user-images.githubusercontent.com/71961635/225389860-ec6d0262-a4af-4c72-a6cd-2d27961ff6cf.png)
+
+## AVERAGE PRICE OF BTC IN LAST 30 DAYS
+![image](https://user-images.githubusercontent.com/71961635/225408659-d5c08c06-34b2-40df-a868-13ad1b6ce2bb.png)
+
+## MAX,MIN AND STD OF BTC IN LAST 30 DAYS
+![image](https://user-images.githubusercontent.com/71961635/225408742-93b08185-aa96-4798-9a40-4b46575c5a83.png)
+![image](https://user-images.githubusercontent.com/71961635/225408781-e959ec5f-1ac1-4f88-b7bb-b94f03755a54.png)
+
+
+## AVERAGE PRICE OF ETH IN LAST 30 DAYS
+
+![image](https://user-images.githubusercontent.com/71961635/225409106-929c5ebd-c6ef-4129-aa0f-2614b3794581.png)
+
+## MAX,MIN, STD PRICE OF ETH IN LAST 30 DAYS
+![image](https://user-images.githubusercontent.com/71961635/225409173-f5d2add4-654f-48e9-9dc9-697f7287a5c4.png)
+![image](https://user-images.githubusercontent.com/71961635/225409220-33ff0e50-4199-4eed-a107-c8c41c1f9a79.png)
+
+#CORRELATION BETWEEN  Ethereum OPEN VS BITCOIN OPEN
+![image](https://user-images.githubusercontent.com/71961635/225409378-06ab0e51-d6ec-49df-b62e-00292d503902.png)
+
+** CORRELATION BETWEEN ETH VS BTC
+![image](https://user-images.githubusercontent.com/71961635/225412651-22962f66-3a74-491b-b79a-13c51f8a727f.png)
+![image](https://user-images.githubusercontent.com/71961635/225412694-b0c575c5-b380-47d7-9758-d88665ab74b6.png)
+
+## NO OUTLIERS
+![image](https://user-images.githubusercontent.com/71961635/225412825-51e4232c-364b-4147-993b-df4aaa50e25a.png)
+# BITCOIN OPEN MARKET OPEN PRICE VS DATE
+![image](https://user-images.githubusercontent.com/71961635/225414558-7d534798-6cae-4cf3-bbc7-3e0dac7b2b8f.png)
+
+#Bitcoin VS Ethereum market open price
+![image](https://user-images.githubusercontent.com/71961635/225414723-bb1256a1-8eeb-47be-aab5-a350653a329b.png)
+
+
